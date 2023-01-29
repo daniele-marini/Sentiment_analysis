@@ -1,10 +1,9 @@
 # Sentiment_analysis
 
-The Sentiment analysis is a Natural Languages Processing task which, given an input text, return the "sentiment" of the given input.
-It's a classification task that include 7 categories: Anger, Digust, Fear, Joy, Sadness, Surprise and Neutral.
-
 ## Problem 
 
+The Sentiment analysis is a Natural Languages Processing task which, given an input text, return the "sentiment" of the given input.
+It's a classification task that include 7 categories: Anger, Digust, Fear, Joy, Sadness, Surprise and Neutral.
 The task is about creating a model that perform the classification given in input text/sentences
 
 ## Dataset
