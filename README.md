@@ -1,5 +1,7 @@
 # Sentiment_analysis
 
+Project work for the "Deep Learning" course of the Artificial Intelligence Master's Degree at University of Bologna
+
 ## Problem 
 
 The Sentiment analysis is a Natural Languages Processing task which, given an input text, return the "sentiment" of the given input.
